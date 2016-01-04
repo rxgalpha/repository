@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 15 17:30:36 GMT+08:00 2015
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1450171836342
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-core\:pom\:4.0.9.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 04 00:00:04 GMT+08:00 2016
+https\://repo.spring.io/libs-release/.lastUpdated=1451836804858
+http\://maven.springframework.org/milestone/.lastUpdated=1451440586769
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1449711317394
+http\://maven.springframework.org/milestone/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:jar\:2.5 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 30 09:56:44 GMT+08:00 2015
+http\://maven.springframework.org/milestone/.lastUpdated=1451440604354
+http\://maven.springframework.org/milestone/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1449711317479
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-site-plugin\:jar\:3.3 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

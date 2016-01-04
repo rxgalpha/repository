@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 04 00:02:01 GMT+08:00 2016
+https\://repo.spring.io/libs-release/.lastUpdated=1451836921628
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1450171836338
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact ognl\:ognl\:pom\:3.0.8 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

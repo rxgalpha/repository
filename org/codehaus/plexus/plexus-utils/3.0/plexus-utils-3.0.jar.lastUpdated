@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 04 09:06:12 GMT+08:00 2016
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1451442188977
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.codehaus.plexus\:plexus-utils\:jar\:3.0 from/to spring-releases (https\://repo.spring.io/libs-release)\: repo.spring.io
+https\://repo.maven.apache.org/maven2/.lastUpdated=1451869572859
